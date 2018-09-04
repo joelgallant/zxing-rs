@@ -1,0 +1,9 @@
+[package]
+name = "zxing-rs"
+version = "0.0.1"
+authors = ["Joel Gallant <joel@joelgallant.me>"]
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "*"
+cmake = "0.1"
