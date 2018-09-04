@@ -6,4 +6,4 @@ build = "build.rs"
 
 [build-dependencies]
 bindgen = "*"
-cmake = "0.1"
+cc = { version = "1", features = ["parallel"] }
