@@ -7,11 +7,8 @@ use std::path::PathBuf;
 fn main() {
     let context = cmake::Config::new("vendor").build_target("libzxing").build();
 
-    println!("cargo:rustc-link-lib=static={}", "libzxing");
-    println!(
-        "cargo:rustc-link-search=native={}",
-        context.join("build").display()
-    );
+    println!("cargo:rustc-link-lib=static={}", "zxing");
+    println!("cargo:rustc-link-search=native={}", context.join("build").display());
 
     bindgen::builder()
         .header("src/wrapper.hpp")
