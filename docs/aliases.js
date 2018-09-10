@@ -1,0 +1,16 @@
+var ALIASES = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
+ALIASES['zxing_rs'] = {};
