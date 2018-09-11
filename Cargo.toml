@@ -1,6 +1,6 @@
 [package]
 name = "zxing-rs"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Joel Gallant <joel@joelgallant.me>"]
 build = "build.rs"
 
